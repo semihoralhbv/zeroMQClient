@@ -20,6 +20,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="lib\ZeroMqClient.cpp" />
+    <ClCompile Include="lib\ZmqLib.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lib\ZeroMqClient.h" />
+    <ClInclude Include="lib\ZmqLib.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
