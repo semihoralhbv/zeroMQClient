@@ -14,4 +14,4 @@ input.txt should be in the same directory with .exe file. If server is run, prog
 
 ## Getting zeroMQ Client
 
-In x64\release folder, run ZeroMqClient.exe.
+Run ZeroMqClient.exe in the folder.
